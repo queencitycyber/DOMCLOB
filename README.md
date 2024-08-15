@@ -1,5 +1,6 @@
-
-
+<p align="center">
+   <img src="bet.png" width="100" height="100">
+</p>
 
 # 🕵️‍♂️ DOMClob: DOM Clobbering Vulnerability Scanner
 
